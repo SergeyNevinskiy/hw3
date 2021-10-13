@@ -1,14 +1,14 @@
 let admin;
-let name = "Джон";
+const name = "Джон";
 admin = name; 
 alert(admin);
 
 const ourPlanetName = "Земля";
-let currentUserName = "Владимир";
+const currentUserName = "Владимир";
 
-let num1 = 10;
-let num2 = "10";
+const num1 = 10;
+const num2 = "10";
 
-let result = num1 + num2;
+const result = num1 + num2;
 
 console.log(result, typeof result);
